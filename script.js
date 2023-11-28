@@ -1,18 +1,3 @@
-/* Trailer dinâmico - tenta usar aquele código simples da pasta do spotify pra ver se vc consegue subir um server e servir pro html o dado que vc quer, 
-deve dar até pra fazer uma parte de salvar. Adiciona "trailer" na query do youtube pra aumentar as chances de vir certo OK*/ 
-//botão para remover filme FAIL - não entendeu a tarefa, era pra ter um botão pra CADA filme
-//adicionar imagem e nome OK
-//armazenar os filmes em uma lista e percorrer sempre que for inserir ou remover OK
-//testa e protege se alguém não tacar uma ibagen na caixa --> aviso de falha pro usuário OK
-
-//tirar os bagulho da Alura OK
-//provavelmente a boa é por os filmes em objetos OK
-//num quero que ele dê esse fetch cada vez que eu puxo o poster não OK
-//botão reset OK
-//Editar o nome
-//mundo ideal vc vai puxar as ibagens tbm via fetch
-//salvar os filmes - HARD
-
 nossoRender = ""
 arrayFilmes = []
 server = `http://127.0.0.1:3000/`

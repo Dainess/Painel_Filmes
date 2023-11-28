@@ -1,5 +1,5 @@
 Meu primeiro projeto compartilhado - Painel de Filmes
-Baseado na Imersão Dev 7 da Alura realizada na semana entre 13 e 17 de Novembro
+Baseado na Imersão Dev 7 da Alura realizada na semana entre 13 e 17 de Novembro de 2023
 
 O projeto base da Imersão era criar um front-end que aceitasse um link para um pôster e um nome de filme e os mostrava na tela em formato de painel. No final algumas propostas de melhorias foram indicadas, como por exemplo clicar no pôster e acessar o trailer do filme. 
 
